@@ -6,8 +6,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nether_cx/featured) 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gustavofirmino09?si=0ce1e6f6e4dd4f5c)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoFreitass&show_icons=true&theme=radical)
-
 ## 💻Tecnologias que utilizo
 <div style="display: inline_block">
     <img align itens="Center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
